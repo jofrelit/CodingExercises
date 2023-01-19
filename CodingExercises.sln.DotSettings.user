@@ -1,16 +1,10 @@
 ﻿<wpf:ResourceDictionary xml:space="preserve" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:s="clr-namespace:System;assembly=mscorlib" xmlns:ss="urn:shemas-jetbrains-com:settings-storage-xaml" xmlns:wpf="http://schemas.microsoft.com/winfx/2006/xaml/presentation">
-	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=86234ac3_002D5a9f_002D4da1_002D8904_002D8a93ddf6277c/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="TestSolution #2" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
-  &lt;TestAncestor&gt;&#xD;
-    &lt;TestId&gt;NUnit3x::C05A2212-D03C-4B45-AAE5-E5344102628C::net7.0::LeetCode._001_Two_Sum.TwoSumTest.TestSolution&lt;/TestId&gt;&#xD;
-  &lt;/TestAncestor&gt;&#xD;
-&lt;/SessionState&gt;</s:String>
-	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=b8826442_002Da36b_002D46cf_002D8e33_002D5283f66592fb/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="TestSolution #3" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
-  &lt;TestAncestor&gt;&#xD;
-    &lt;TestId&gt;NUnit3x::C05A2212-D03C-4B45-AAE5-E5344102628C::net7.0::LeetCode._001_Two_Sum.TwoSumTest.TestingSolution&lt;/TestId&gt;&#xD;
-  &lt;/TestAncestor&gt;&#xD;
-&lt;/SessionState&gt;</s:String>
+	
+	
 	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=bb0abfbd_002D8368_002D464a_002D9347_002D039ef0721959/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" IsActive="True" Name="TestSolution" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
   &lt;TestAncestor&gt;&#xD;
     &lt;TestId&gt;NUnit3x::C05A2212-D03C-4B45-AAE5-E5344102628C::net7.0::LeetCode._001_Two_Sum.TwoSumTest&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::C05A2212-D03C-4B45-AAE5-E5344102628C::net7.0::LeetCode._002_Add_Two_Numbers.AddTwoNumbersTest.TestAddTwoNumbers_FirstTry&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::C05A2212-D03C-4B45-AAE5-E5344102628C::net7.0::LeetCode._002_Add_Two_Numbers.AddTwoNumbersTest.TestAddTwoNumbers_Recursion&lt;/TestId&gt;&#xD;
   &lt;/TestAncestor&gt;&#xD;
 &lt;/SessionState&gt;</s:String></wpf:ResourceDictionary>
