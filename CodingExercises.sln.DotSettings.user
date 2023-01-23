@@ -1,31 +1,38 @@
 ﻿<wpf:ResourceDictionary xml:space="preserve" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:s="clr-namespace:System;assembly=mscorlib" xmlns:ss="urn:shemas-jetbrains-com:settings-storage-xaml" xmlns:wpf="http://schemas.microsoft.com/winfx/2006/xaml/presentation">
-	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=0678005c_002Df673_002D405d_002Dbd93_002D7663e8f1939b/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="TestFindMedianSortedArrays" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;
-  &lt;TestAncestor&gt;
-    &lt;TestId&gt;NUnit3x::C05A2212-D03C-4B45-AAE5-E5344102628C::net7.0::LeetCode._004_Median_of_Two_Sorted_Arrays.MedianOfTwoSortedArraysTest.TestFindMedianSortedArrays&lt;/TestId&gt;
-  &lt;/TestAncestor&gt;
+	<s:String x:Key="/Default/Environment/Highlighting/HighlightingSourceSnapshotLocation/@EntryValue">C:\Users\johan\AppData\Local\JetBrains\Rider2022.3\resharper-host\temp\Rider\vAny\CoverageData\_CodingExercises.-1564788461\Snapshot\snapshot.utdcvr</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=0678005c_002Df673_002D405d_002Dbd93_002D7663e8f1939b/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="TestFindMedianSortedArrays" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::C05A2212-D03C-4B45-AAE5-E5344102628C::net7.0::LeetCode._004_Median_of_Two_Sorted_Arrays.MedianOfTwoSortedArraysTest.TestFindMedianSortedArrays&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
 &lt;/SessionState&gt;</s:String>
-	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=8147001b_002D7a56_002D44e5_002Dbd37_002Df5d5a152c96b/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="TwoSumTest" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;
-  &lt;TestAncestor&gt;
-    &lt;TestId&gt;NUnit3x::C05A2212-D03C-4B45-AAE5-E5344102628C::net7.0::LeetCode._001_Two_Sum.TwoSumTest&lt;/TestId&gt;
-    &lt;TestId&gt;NUnit3x::C05A2212-D03C-4B45-AAE5-E5344102628C::net7.0::LeetCode._002_Add_Two_Numbers.AddTwoNumbersTest.TestAddTwoNumbers_FirstTry&lt;/TestId&gt;
-    &lt;TestId&gt;NUnit3x::C05A2212-D03C-4B45-AAE5-E5344102628C::net7.0::LeetCode._002_Add_Two_Numbers.AddTwoNumbersTest.TestAddTwoNumbers_Recursion&lt;/TestId&gt;
-    &lt;TestId&gt;NUnit3x::C05A2212-D03C-4B45-AAE5-E5344102628C::net7.0::LeetCode._003__Longest_Substring_Without_Repeating_Characters.LongestSubstringWithoutRepeatingCharactersTest.TestLengthOfLongestSubstring&lt;/TestId&gt;
-    &lt;TestId&gt;NUnit3x::C05A2212-D03C-4B45-AAE5-E5344102628C::net7.0::LeetCode._003__Longest_Substring_Without_Repeating_Characters.LongestSubstringWithoutRepeatingCharactersTest&lt;/TestId&gt;
-    &lt;TestId&gt;NUnit3x::C05A2212-D03C-4B45-AAE5-E5344102628C::net7.0::LeetCode._004_Median_of_Two_Sorted_Arrays.MedianOfTwoSortedArraysTest&lt;/TestId&gt;
-    &lt;TestId&gt;NUnit3x::C05A2212-D03C-4B45-AAE5-E5344102628C::net7.0::LeetCode._009_Palindrome_Number.PalindromeNumberTest.TestPalindromeNumber_FirstTry&lt;/TestId&gt;
-  &lt;/TestAncestor&gt;
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=4cf0a808_002D78a7_002D45aa_002Da1a5_002D7781e553716e/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" IsActive="True" Name="TestReverseInteger" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::C05A2212-D03C-4B45-AAE5-E5344102628C::net7.0::LeetCode._007_Reverse_Integer.ReverseIntegerTest&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=8147001b_002D7a56_002D44e5_002Dbd37_002Df5d5a152c96b/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="TwoSumTest" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::C05A2212-D03C-4B45-AAE5-E5344102628C::net7.0::LeetCode._001_Two_Sum.TwoSumTest&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::C05A2212-D03C-4B45-AAE5-E5344102628C::net7.0::LeetCode._002_Add_Two_Numbers.AddTwoNumbersTest.TestAddTwoNumbers_FirstTry&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::C05A2212-D03C-4B45-AAE5-E5344102628C::net7.0::LeetCode._002_Add_Two_Numbers.AddTwoNumbersTest.TestAddTwoNumbers_Recursion&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::C05A2212-D03C-4B45-AAE5-E5344102628C::net7.0::LeetCode._003__Longest_Substring_Without_Repeating_Characters.LongestSubstringWithoutRepeatingCharactersTest.TestLengthOfLongestSubstring&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::C05A2212-D03C-4B45-AAE5-E5344102628C::net7.0::LeetCode._003__Longest_Substring_Without_Repeating_Characters.LongestSubstringWithoutRepeatingCharactersTest&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::C05A2212-D03C-4B45-AAE5-E5344102628C::net7.0::LeetCode._004_Median_of_Two_Sorted_Arrays.MedianOfTwoSortedArraysTest&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::C05A2212-D03C-4B45-AAE5-E5344102628C::net7.0::LeetCode._009_Palindrome_Number.PalindromeNumberTest.TestPalindromeNumber_FirstTry&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
 &lt;/SessionState&gt;</s:String>
 	
 	
-	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=bb0abfbd_002D8368_002D464a_002D9347_002D039ef0721959/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" IsActive="True" Name="TestSolution" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;
-  &lt;TestAncestor&gt;
-    &lt;TestId&gt;NUnit3x::C05A2212-D03C-4B45-AAE5-E5344102628C::net7.0::LeetCode._001_Two_Sum.TwoSumTest&lt;/TestId&gt;
-    &lt;TestId&gt;NUnit3x::C05A2212-D03C-4B45-AAE5-E5344102628C::net7.0::LeetCode._002_Add_Two_Numbers.AddTwoNumbersTest.TestAddTwoNumbers_FirstTry&lt;/TestId&gt;
-    &lt;TestId&gt;NUnit3x::C05A2212-D03C-4B45-AAE5-E5344102628C::net7.0::LeetCode._002_Add_Two_Numbers.AddTwoNumbersTest.TestAddTwoNumbers_Recursion&lt;/TestId&gt;
-    &lt;TestId&gt;NUnit3x::C05A2212-D03C-4B45-AAE5-E5344102628C::net7.0::LeetCode._003__Longest_Substring_Without_Repeating_Characters.LongestSubstringWithoutRepeatingCharactersTest.TestLengthOfLongestSubstring&lt;/TestId&gt;
-    &lt;TestId&gt;NUnit3x::C05A2212-D03C-4B45-AAE5-E5344102628C::net7.0::LeetCode._003__Longest_Substring_Without_Repeating_Characters.LongestSubstringWithoutRepeatingCharactersTest&lt;/TestId&gt;
-    &lt;TestId&gt;NUnit3x::C05A2212-D03C-4B45-AAE5-E5344102628C::net7.0::LeetCode._004_Median_of_Two_Sorted_Arrays.MedianOfTwoSortedArraysTest&lt;/TestId&gt;
-    &lt;TestId&gt;NUnit3x::C05A2212-D03C-4B45-AAE5-E5344102628C::net7.0::LeetCode._009_Palindrome_Number.PalindromeNumberTest.TestPalindromeNumber_FirstTry&lt;/TestId&gt;
-    &lt;TestId&gt;NUnit3x::C05A2212-D03C-4B45-AAE5-E5344102628C::net7.0::LeetCode._009_Palindrome_Number.PalindromeNumberTest&lt;/TestId&gt;
-  &lt;/TestAncestor&gt;
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=bb0abfbd_002D8368_002D464a_002D9347_002D039ef0721959/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="TestSolution" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::C05A2212-D03C-4B45-AAE5-E5344102628C::net7.0::LeetCode._001_Two_Sum.TwoSumTest&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::C05A2212-D03C-4B45-AAE5-E5344102628C::net7.0::LeetCode._002_Add_Two_Numbers.AddTwoNumbersTest.TestAddTwoNumbers_FirstTry&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::C05A2212-D03C-4B45-AAE5-E5344102628C::net7.0::LeetCode._002_Add_Two_Numbers.AddTwoNumbersTest.TestAddTwoNumbers_Recursion&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::C05A2212-D03C-4B45-AAE5-E5344102628C::net7.0::LeetCode._003__Longest_Substring_Without_Repeating_Characters.LongestSubstringWithoutRepeatingCharactersTest.TestLengthOfLongestSubstring&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::C05A2212-D03C-4B45-AAE5-E5344102628C::net7.0::LeetCode._003__Longest_Substring_Without_Repeating_Characters.LongestSubstringWithoutRepeatingCharactersTest&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::C05A2212-D03C-4B45-AAE5-E5344102628C::net7.0::LeetCode._004_Median_of_Two_Sorted_Arrays.MedianOfTwoSortedArraysTest&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::C05A2212-D03C-4B45-AAE5-E5344102628C::net7.0::LeetCode._009_Palindrome_Number.PalindromeNumberTest.TestPalindromeNumber_FirstTry&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::C05A2212-D03C-4B45-AAE5-E5344102628C::net7.0::LeetCode._009_Palindrome_Number.PalindromeNumberTest&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::C05A2212-D03C-4B45-AAE5-E5344102628C::net7.0::LeetCode._007_Reverse_Integer.ReverseIntegerTest.TestReverseInteger&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
 &lt;/SessionState&gt;</s:String></wpf:ResourceDictionary>
